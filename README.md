@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shivakumar.medaveni@example.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-shivakumar.medaveni%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/medavenisiva">
