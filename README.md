@@ -12,9 +12,6 @@
   <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/medavenisiva">
-    <img src="https://img.shields.io/github/followers/medavenisiva?label=GitHub&style=for-the-badge&logo=github" />
-  </a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -42,6 +39,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks" />
   <img src="https://img.shields.io/badge/LTspice-F77F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=xilinx&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
