@@ -1,64 +1,63 @@
+<!-- Profile Header -->
 <p align="center">
-  <h1 align="center">Shivakumar Medaveni</h1>
-  <p align="center">
-    Electronics & Communication Engineer (ECE)
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Shivakumar%20Medaveni&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi;Thanks+for+visiting;Connect+with+me+on+LinkedIn" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/medavenisiva">
+    <img src="https://img.shields.io/github/followers/medavenisiva?label=GitHub&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## About Me
-
-- 🎓 B.Tech & Diploma in **Electronics and Communication Engineering**
-- 💡 Interested in **VLSI, Embedded Systems, and AI/ML**
-- 🔬 Hands-on learner focused on **practical projects**
-- 🎯 Preparing for higher studies and research-oriented roles
+## 👨‍💻 About Me  
+(B.Tech & Diploma in ECE)
 
 ---
 
-## Skills
+## 🚀 Projects  
 
-**Programming & HDL**
-- C++
-- Python
-- Verilog
-
-**Tools & Software**
-- MATLAB
-- LTspice
-- VS Code
-
-**Core Areas**
-- Digital Electronics  
-- VLSI Fundamentals  
-- Embedded Systems  
-- Machine Learning (CNN basics)
+- **Smart Garbage Monitoring System using IoT**  
+- **LULC Mapping using CNN on Satellite Images**
 
 ---
 
-## Projects
-
-**Smart Garbage Monitoring System (IoT)**  
-- Sensor-based real-time garbage level monitoring  
-- Designed for smart city waste management
-
-**LULC Mapping using CNN on Satellite Images**  
-- Land Use / Land Cover classification  
-- Applied CNNs on satellite imagery for analysis
-
----
-
-## GitHub Statistics
+## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medavenisiva&show_icons=true&hide_title=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medavenisiva&layout=compact&hide_border=true" height="160"/>
+  <img src="https://img.shields.io/badge/Verilog-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks" />
+  <img src="https://img.shields.io/badge/LTspice-F77F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
 ---
 
-## Contact
+## 📊 GitHub Activity  
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN  
-- 🧑‍💻 GitHub: https://github.com/medavenisiva
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medavenisiva&show_icons=true&theme=radical&hide_title=true&count_private=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=medavenisiva&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medavenisiva&layout=compact&theme=radical" height="140" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer" />
+</p>
